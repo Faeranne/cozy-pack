@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "6c628e1a1e23fb81ae1101b1dabdd75527cb7bfec5d2d4e6b2f34c119366e149"
+hash = "102d8d9d03ab3f95c73dd82bf9ef3df37dba791f92e3cbd2ca7e54d4af603417"
 metafile = true
 
 [[files]]
@@ -458,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "3cf8b32aacef32f066de71330c7c2fbba058115dd2d6bd181e468508fa56499c"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "ba02b0db6a5c3b4a060043b4209626fe1785bc707db20fb4e9e2f7d4ce1e269a"
 metafile = true
 
 [[files]]
@@ -647,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "4585eda8b0df3d0fdb3fca6fc6154fafad91a4b33539e9b6badb65575dc292b0"
+hash = "5b441eb41c2f8f43d8895229e1785a790444485a53e42096ec3d94fda8bb064d"
 metafile = true
 
 [[files]]
