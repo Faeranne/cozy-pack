@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/keymap.pw.toml"
-hash = "9d78e4a2b8a0feeb50fc21cf80d4d9827e08b72c6898ff0bfa1118cf59109f88"
+hash = "464b8aebcfb85346a70995168027ab3d6144086c9d1aaeeab076332eb9dfb212"
 metafile = true
 
 [[files]]
