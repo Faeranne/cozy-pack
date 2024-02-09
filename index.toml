@@ -96,11 +96,6 @@ hash = "90e0a70a27645cceb9f010402abde51cb0f2e69d3d4183089a88ab11e7e6bcfb"
 metafile = true
 
 [[files]]
-file = "mods/beyond-earth.pw.toml"
-hash = "04cc1e4fcdc7bccd1a4906aa24b13350a7cdd7cae1a92a3d57f5d7f90c26e7d4"
-metafile = true
-
-[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "f44398d928de03d73d2170690c4e326b7c3c9d9af511e304c1099cac0067dba8"
 metafile = true
