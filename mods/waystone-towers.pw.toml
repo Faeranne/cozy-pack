@@ -1,6 +1,6 @@
 name = "Waystone Towers"
 filename = "waystone_towers-1.18.2-FORGE-1.0.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/azBgcZIk/versions/9JcWCQ2F/waystone_towers-1.18.2-FORGE-1.0.8.jar"
