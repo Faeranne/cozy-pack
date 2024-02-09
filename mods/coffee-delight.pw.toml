@@ -1,0 +1,13 @@
+name = "Coffee Delight"
+filename = "CoffeeDelight-Forge-1.18.2-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jn1HiMrY/versions/GUalG4PE/CoffeeDelight-Forge-1.18.2-1.4.jar"
+hash-format = "sha1"
+hash = "72f78d9c368ccafb4a970468bc45d01cd93b153a"
+
+[update]
+[update.modrinth]
+mod-id = "jn1HiMrY"
+version = "GUalG4PE"

@@ -1,0 +1,13 @@
+name = "TIS-3D"
+filename = "tis3d-1.18.2-forge-1.6.8+2ac5c5f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L23x7zL8/versions/1.6.8/tis3d-1.18.2-forge-1.6.8%2B2ac5c5f.jar"
+hash-format = "sha1"
+hash = "1d1f333c13d8d2f544a815c09a166b1bc3e91f97"
+
+[update]
+[update.modrinth]
+mod-id = "L23x7zL8"
+version = "Ds3ppxDZ"

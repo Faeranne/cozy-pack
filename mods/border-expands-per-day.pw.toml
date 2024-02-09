@@ -1,0 +1,13 @@
+name = "Border Expands Per Day"
+filename = "border-expands-per-day-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ju3n6Otr/versions/FDR1LOYp/border-expands-per-day-1.0.3.jar"
+hash-format = "sha1"
+hash = "c646616f2acd6f3177454cc2e2a7edfc3755dd32"
+
+[update]
+[update.modrinth]
+mod-id = "ju3n6Otr"
+version = "FDR1LOYp"

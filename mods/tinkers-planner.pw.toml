@@ -1,0 +1,13 @@
+name = "Tinker's Planner"
+filename = "tconplanner-1.18.2-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XYufjdjs/versions/rZ0aiD6j/tconplanner-1.18.2-1.2.0.jar"
+hash-format = "sha1"
+hash = "33205a348854308b5d015b512ae5a7c5e7075317"
+
+[update]
+[update.modrinth]
+mod-id = "XYufjdjs"
+version = "rZ0aiD6j"

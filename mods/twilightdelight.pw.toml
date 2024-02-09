@@ -1,0 +1,13 @@
+name = "Twilight Delight"
+filename = "TwilightDelight-forge-1.18.2-1.2.0-Beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rXSy9m41/versions/1.2.0-Beta/TwilightDelight-forge-1.18.2-1.2.0-Beta.jar"
+hash-format = "sha1"
+hash = "71b1461c0f357803d233751b554970f47874aaa9"
+
+[update]
+[update.modrinth]
+mod-id = "rXSy9m41"
+version = "RgO3rKAF"

@@ -1,0 +1,13 @@
+name = "Blood Smeltery"
+filename = "Blood-Smeltery-1.18.2-1.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1a7pNmC7/versions/uxDimVYx/Blood-Smeltery-1.18.2-1.1.6.jar"
+hash-format = "sha1"
+hash = "b4835dd0765f1cef5522b82e035183491f4e2c92"
+
+[update]
+[update.modrinth]
+mod-id = "1a7pNmC7"
+version = "uxDimVYx"

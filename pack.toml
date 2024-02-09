@@ -1,0 +1,13 @@
+name = "Cozy Pack"
+author = "Faer-Anne"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "29907406d394a6bc282a7ecfbde701e62be62a3782abff8198505583d252b298"
+
+[versions]
+forge = "40.2.17"
+minecraft = "1.18.2"

@@ -1,0 +1,13 @@
+name = "Create: Missions"
+filename = "missions-forge-0.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KN33kvHF/versions/u4e9VFO0/missions-forge-0.2.6.jar"
+hash-format = "sha1"
+hash = "86a71bd56763c588536fb2ae6cbd0176d90c5032"
+
+[update]
+[update.modrinth]
+mod-id = "KN33kvHF"
+version = "u4e9VFO0"

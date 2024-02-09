@@ -1,0 +1,13 @@
+name = "ME Requester"
+filename = "merequester-1.18.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6BFl96N/versions/q7qVs8KA/merequester-1.18.2-1.1.2.jar"
+hash-format = "sha1"
+hash = "1e0a2316e31e1fb6214e838644a4667e8c0e8cf2"
+
+[update]
+[update.modrinth]
+mod-id = "E6BFl96N"
+version = "q7qVs8KA"

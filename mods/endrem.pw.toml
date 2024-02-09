@@ -1,0 +1,13 @@
+name = "End Remastered"
+filename = "endrem_forge-5.2.2-R-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZJTGwAND/versions/baputuVX/endrem_forge-5.2.2-R-1.18.2.jar"
+hash-format = "sha1"
+hash = "c27718d964c16fc8e88d47b67bced9da1f1e97a3"
+
+[update]
+[update.modrinth]
+mod-id = "ZJTGwAND"
+version = "baputuVX"

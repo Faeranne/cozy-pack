@@ -1,0 +1,13 @@
+name = "Shrines Structures"
+filename = "Shrines-1.18.2-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F33t24Wi/versions/1.18.2-4.1.0/Shrines-1.18.2-4.1.0.jar"
+hash-format = "sha1"
+hash = "0857a406229642c608092150c3346c9e044e6eb9"
+
+[update]
+[update.modrinth]
+mod-id = "F33t24Wi"
+version = "zqn6YpAH"

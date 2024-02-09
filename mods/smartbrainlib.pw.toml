@@ -1,0 +1,13 @@
+name = "SmartBrainLib"
+filename = "SmartBrainLib-forge-1.18.2-1.9.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/RC9fgR3J/SmartBrainLib-forge-1.18.2-1.9.jar"
+hash-format = "sha1"
+hash = "be2726aaf063b9616e8f9480b8c3d6c87df492b1"
+
+[update]
+[update.modrinth]
+mod-id = "PuyPazRT"
+version = "RC9fgR3J"

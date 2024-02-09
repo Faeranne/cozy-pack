@@ -1,0 +1,13 @@
+name = "TIS Advanced"
+filename = "tisadvanced-1.18.2-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xYfyUTuc/versions/2Axs6Ufo/tisadvanced-1.18.2-0.3.1.jar"
+hash-format = "sha1"
+hash = "342360ddeb899ba9743d500baf70c89e96ae9255"
+
+[update]
+[update.modrinth]
+mod-id = "xYfyUTuc"
+version = "2Axs6Ufo"

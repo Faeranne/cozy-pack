@@ -1,0 +1,13 @@
+name = "Koremods"
+filename = "koremods-modlauncher-0.4.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EWmBPx3X/versions/AaBSPhEa/koremods-modlauncher-0.4.11.jar"
+hash-format = "sha1"
+hash = "6bc6cca4af5ebb9e6127814c9f35068ee877fe9d"
+
+[update]
+[update.modrinth]
+mod-id = "EWmBPx3X"
+version = "AaBSPhEa"

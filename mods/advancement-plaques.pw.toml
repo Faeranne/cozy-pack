@@ -1,0 +1,13 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-1.18.2-1.4.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/3D0Ay8Mj/AdvancementPlaques-1.18.2-1.4.5.1.jar"
+hash-format = "sha1"
+hash = "b1f30856926616605c16e5eb8b7dda845d39a104"
+
+[update]
+[update.modrinth]
+mod-id = "9NM0dXub"
+version = "3D0Ay8Mj"

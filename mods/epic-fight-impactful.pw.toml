@@ -1,0 +1,13 @@
+name = "Epic Fight - impactful"
+filename = "impactful-18.5.3-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CKnwEDfl/versions/XBTMG6vd/impactful-18.5.3-hotfix.jar"
+hash-format = "sha1"
+hash = "0057c7931cc75b281481cce96e716010cc1a852c"
+
+[update]
+[update.modrinth]
+mod-id = "CKnwEDfl"
+version = "XBTMG6vd"

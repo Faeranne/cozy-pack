@@ -1,0 +1,13 @@
+name = "Ars Scalaes"
+filename = "ars_scalaes-1.18.2-1.8.1-rework.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea49455367e368695ca85dedcef4eb80285e5d0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4358572
+project-id = 630431

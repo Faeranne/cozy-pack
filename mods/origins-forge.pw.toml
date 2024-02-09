@@ -1,0 +1,13 @@
+name = "Origins (Forge)"
+filename = "Origins-1.18.2-1.4.1.4-unified.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jl3m2lR9/versions/NWGi3n5o/Origins-1.18.2-1.4.1.4-unified.jar"
+hash-format = "sha1"
+hash = "0cd808035932157181076af283e0e23b7e785bb4"
+
+[update]
+[update.modrinth]
+mod-id = "jl3m2lR9"
+version = "NWGi3n5o"

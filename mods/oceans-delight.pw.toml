@@ -1,0 +1,13 @@
+name = "Ocean's Delight"
+filename = "oceansdelight-1.0.0-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DGiq4ZSW/versions/TfK4MPCB/oceansdelight-1.0.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "31a2e87bc50bac8ead86a76056a7053bf6bb9782"
+
+[update]
+[update.modrinth]
+mod-id = "DGiq4ZSW"
+version = "TfK4MPCB"

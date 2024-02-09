@@ -1,0 +1,13 @@
+name = "Mana and Artifice"
+filename = "mna-2.0.0.33.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zaRGNexp/versions/ruKu2BKh/mna-2.0.0.33.jar"
+hash-format = "sha1"
+hash = "72b46f2bf1ec2a8987172a625b839ff85f9443dc"
+
+[update]
+[update.modrinth]
+mod-id = "zaRGNexp"
+version = "ruKu2BKh"

@@ -1,0 +1,13 @@
+name = "InsaneLib"
+filename = "InsaneLib-1.5.1-mc1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/USZyvOJq/versions/24MVTO59/InsaneLib-1.5.1-mc1.18.2.jar"
+hash-format = "sha1"
+hash = "baabb460e25735db475b7d55ad398bf873ab9467"
+
+[update]
+[update.modrinth]
+mod-id = "USZyvOJq"
+version = "24MVTO59"

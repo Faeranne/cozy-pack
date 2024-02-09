@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.18.2-1.5.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/XrooimC8/supplementaries-1.18.2-1.5.18.jar"
+hash-format = "sha1"
+hash = "0010fd63defe2972c5f0abb0ccb421af0f16a3a1"
+
+[update]
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "XrooimC8"

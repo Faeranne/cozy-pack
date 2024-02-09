@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.18.2-1.2.4-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ko8Qabo1/versions/QNoLqlpJ/Notes-1.18.2-1.2.4-forge.jar"
+hash-format = "sha1"
+hash = "7b8d91c1426c8d305ab12a3d8b2f52f6013e20b2"
+
+[update]
+[update.modrinth]
+mod-id = "ko8Qabo1"
+version = "QNoLqlpJ"

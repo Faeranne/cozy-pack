@@ -1,0 +1,13 @@
+name = "Dimensional Dungeons"
+filename = "dimdungeons-178-forge-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q8XlZjYF/versions/GG4ZdVbG/dimdungeons-178-forge-1.18.2.jar"
+hash-format = "sha1"
+hash = "77ed3044392bc94bba66be1936b229f3ccfb2a61"
+
+[update]
+[update.modrinth]
+mod-id = "Q8XlZjYF"
+version = "GG4ZdVbG"

@@ -1,0 +1,13 @@
+name = "Apugli"
+filename = "Apugli-2.4.9+1.18.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1qeWG44Y/versions/iAXNdAT9/Apugli-2.4.9%2B1.18.2-forge.jar"
+hash-format = "sha1"
+hash = "ba2f74555fc1ea77586d68b779aabdf6d9141ea3"
+
+[update]
+[update.modrinth]
+mod-id = "1qeWG44Y"
+version = "iAXNdAT9"

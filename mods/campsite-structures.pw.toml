@@ -1,0 +1,13 @@
+name = "Campsite Structures"
+filename = "campsite_structures-1.18.2-FORGE-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gA6575EW/versions/68XpK1pL/campsite_structures-1.18.2-FORGE-1.0.3.jar"
+hash-format = "sha1"
+hash = "f056747618ed8a4740c4280eecf5328ca4d57fa9"
+
+[update]
+[update.modrinth]
+mod-id = "gA6575EW"
+version = "68XpK1pL"
