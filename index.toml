@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "bbc2c469bbf331a01004c72899d6cd8b1eca6143156af4935a57e0e51011ae71"
+hash = "0d72545d14aec02b349975bf6bb0e715ccd5cfd108c5250a77603ab6009cfa2b"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3763adf24dc8f0d44077cb2e8e6b70ec9cae6a85146a309ac5309a2913d92461"
+hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
 
 [[files]]
