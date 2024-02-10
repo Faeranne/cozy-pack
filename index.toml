@@ -14,7 +14,7 @@ hash = "3c12b84d06fc318bb41cf81de84c6b181ba72f5deaf0e1598d60bcbdccfe507b"
 
 [[files]]
 file = "config/global_data_and_resourcepacks.toml"
-hash = "e4a0f8ca6d11b5081ec09b35f55d6ceda9b1345359b9bd409b37815dd5678389"
+hash = "a05da6d2964c19b37038d00a753e89170a538f72e4f4764e85909477c0f0e637"
 
 [[files]]
 file = "config/somnia-common.toml"

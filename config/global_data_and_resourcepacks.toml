@@ -4,6 +4,6 @@ required = [
 
 [datapacks]
 required = [
-  "config/global_pack"
+  "config/cozy_pack"
 ]
 
