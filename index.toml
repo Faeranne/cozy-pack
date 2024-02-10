@@ -18,7 +18,7 @@ hash = "a05da6d2964c19b37038d00a753e89170a538f72e4f4764e85909477c0f0e637"
 
 [[files]]
 file = "config/somnia-common.toml"
-hash = "b9cd9f50ed0aca1023fc0fb9b2aa596859167743f4f48af95bd09b02d3f8f69e"
+hash = "19bce090c634de7e5c2f8fc12b2cf56dd5bbcd6331ef6b52044b177cc65220de"
 
 [[files]]
 file = "mods/adorn.pw.toml"
