@@ -29,7 +29,7 @@
     "farmersdelight:chicken_soup",
     "farmersdelight:fish_stew",
     "farmersdelight:bacon_and_eggs",
-    "farmersdelight:roasted_muttonchops",
+    "farmersdelight:roasted_mutton_chops",
     "farmersdelight:grilled_salmon",
     "farmersdelight:roast_chicken",
     "farmersdelight:honey_glazed_ham",
@@ -48,7 +48,7 @@
     "ends_delight:roasted_dragon_meat",
     "ends_delight:raw_dragon_meat_cuts",
     "ends_delight:roasted_dragon_meat_cuts",
-    "ends_delight:raw_endermite_meat",
+    "ends_delight:raw_ender_mite_meat",
     "ends_delight:dried_endermite_meat",
     "ends_delight:end_barbecue_stick",
     "ends_delight:dragon_leg_with_sauce",
@@ -67,12 +67,12 @@
     "oceansdelight:cooked_elder_guardian_slice",
     "oceansdelight:elder_guardian_roll",
     "oceansdelight:fugu_slice",
-    "oceansdelight:fugo_roll",
+    "oceansdelight:fugu_roll",
     "crabbersdelight:fish_stick",
     "crabbersdelight:surf_and_turf",
     "crabbersdelight:shrimp_skewer",
     "crabbersdelight:seafood_gumbo",
-    "crabbersdelight:stuffed_nautilus_Shell",
+    "crabbersdelight:stuffed_nautilus_shell",
     "crabbersdelight:clam_chowder"
   ]
 }

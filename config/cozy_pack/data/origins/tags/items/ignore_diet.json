@@ -12,7 +12,7 @@
     "coffee_delight:cap_iced_moka",
     "coffee_delight:cap_iced_cappuccino",
     "coffee_delight:cap_iced_usa_coffee",
-    "coffee_delight:cap_iced_fail_coffee",
+    "coffee_delight:cap_fail_coffee",
     "coffee_delight:mag_black_coffee",
     "coffee_delight:mag_double_espresso_coffee",
     "coffee_delight:mag_arabic_coffee",
@@ -53,7 +53,6 @@
     "simplytea:cup_tea_chorus",
     "oceansdelight:bowl_of_guardian_soup",
     "oceansdelight:cabbage_wrapped_elder_guardian",
-    "simplytea:cup_tea_cocoa",
     "vampirism:human_heart",
     "vampirism:weak_human_heart",
     "crabbersdelight:fish_stick",
@@ -61,6 +60,6 @@
     "crabbersdelight:clam_bake",
     "adorn:nether_wart_coffee",
     "twilightdelight:glacier_ice_tea",
-    "twilightdelight:twilight_sprint"
+    "twilightdelight:twilight_spring"
   ]
 }
