@@ -186,6 +186,11 @@ hash = "0c80358f0939bd9957ccce6472a7074701781e1b0e710862acfebe174574e13c"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e94ced2ebfee6d493a140ada639eb49ef9b24ce48bdde542d0024878b88cde4"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "b98a0aa7cb0002d12d7857289d7010d1c699ccfc63d296a22e4b3ed3f3c5b02e"
 metafile = true
@@ -393,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "d68d9c9e4b2c28592e277ab187faae9682c9d150140d8aae67ddf22ca7db9515"
-metafile = true
-
-[[files]]
-file = "mods/keymap.pw.toml"
-hash = "464b8aebcfb85346a70995168027ab3d6144086c9d1aaeeab076332eb9dfb212"
 metafile = true
 
 [[files]]
