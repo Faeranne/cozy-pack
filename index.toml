@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cozy_pack/data/cozy/origins/tags/items/ignore_diet.json"
+hash = "76e1e08a8f91a540887613205d10b3ce89ce1ed47ddbaf9f4171a2b74c2b488c"
+
+[[files]]
+file = "config/cozy_pack/data/cozy/origins/tags/items/meat.json"
+hash = "761c1cff81dd90cb6360a34d66642c36e737e7fbe86c20c0315cfd8ab36392d6"
+
+[[files]]
+file = "config/cozy_pack/pack.mcmeta"
+hash = "3c12b84d06fc318bb41cf81de84c6b181ba72f5deaf0e1598d60bcbdccfe507b"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "e4a0f8ca6d11b5081ec09b35f55d6ceda9b1345359b9bd409b37815dd5678389"
+
+[[files]]
+file = "config/somnia-common.toml"
+hash = "b9cd9f50ed0aca1023fc0fb9b2aa596859167743f4f48af95bd09b02d3f8f69e"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
@@ -108,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/blue-skies.pw.toml"
 hash = "ff498ea322fe6298e3c995b731fd5c93c52407468cadc2877c04d5e9ef13750e"
-metafile = true
-
-[[files]]
-file = "mods/border-expands-per-day.pw.toml"
-hash = "5c4672e896262684e3d798b01fef4824d832abad2f3344211ebddcbb0f8080d4"
 metafile = true
 
 [[files]]
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "345c513e6f9a7fe31fa382c5ad34ba9447ffeac4e261c4dd9bb0a49d1cc23dd7"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "0a78f86e322306b8f5f05aacc630e991208117c19df3aa6b9bd6c8d025664c56"
 metafile = true
 
 [[files]]
@@ -603,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "f713c8a5da32ccad8b040e36391052d3ae7be36ab93072b1e0abe422252b94ba"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "614a7bd300f1eac1aa5693b2b331d3dab75bd2f1e5989ab14f8d463c3b58d19c"
 metafile = true
 
 [[files]]

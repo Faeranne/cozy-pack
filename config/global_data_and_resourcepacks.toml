@@ -1,0 +1,9 @@
+[resourcepacks]
+required = [
+]
+
+[datapacks]
+required = [
+  "config/global_pack"
+]
+

@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "global_packs-forge-1.18.2-1.12.4_forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/ktGh7bz0/global_packs-forge-1.18.2-1.12.4_forge.jar"
+hash-format = "sha1"
+hash = "cd4f5346b500dbd784ee669b44c2b194a9bf8f7f"
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "ktGh7bz0"

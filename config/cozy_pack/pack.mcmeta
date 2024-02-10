@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [7,26],
+    "description": "Cozy Pack 2.0 changes"
+  }
+}
