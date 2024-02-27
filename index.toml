@@ -21,6 +21,10 @@ file = "config/somnia-common.toml"
 hash = "19bce090c634de7e5c2f8fc12b2cf56dd5bbcd6331ef6b52044b177cc65220de"
 
 [[files]]
+file = "kubejs/server_scripts/border.js"
+hash = "ee760d5e0180e7120e3f13434d49955bb003c99052e7e0dfe91aeef99286889d"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
@@ -433,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "706c549ccb4bea75059c2a046f9f4c3cb6c2798a51a72d493d2978eed2e57457"
 metafile = true
 
 [[files]]
